@@ -683,7 +683,8 @@
     "hedget.com",
     "ladder.to"
   ],
-  "blacklist": [
+  "blacklist": 
+    "maskmeta.net",
     "maskmeta.biz",
     "slolzfr.com",
     "xrp.limited",
