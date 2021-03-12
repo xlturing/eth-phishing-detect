@@ -714,6 +714,7 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "walletsconnect.net",
     "oferonrain.web.app",
     "thegraph.us",
     "nucypher.biz",
